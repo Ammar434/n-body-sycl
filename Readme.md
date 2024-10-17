@@ -14,7 +14,10 @@ This project implements an N-body simulation using C++ and SYCL oneAPI for paral
 
 ## 🎥 Demo
 
-<video controls src="result/output_compress.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/862afd89-cb10-4e6a-9297-cb816f2e3949
+
+
 ## 🚀 Features
 
 - Real-time simulation of gravitational N-Body interactions
