@@ -13,6 +13,8 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 
 file(MAKE_DIRECTORY images)
 
+set(CMAKE_CXX_COMPILER icpx)
+
 # Check for Intel compiler
 if(NOT CMAKE_CXX_COMPILER MATCHES "icpx")
     message(FATAL_ERROR "Intel SYCL requires Intel C++ Compiler (icpx or dpcpp). Please set CMAKE_CXX_COMPILER appropriately.")
