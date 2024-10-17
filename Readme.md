@@ -14,9 +14,7 @@ This project implements an N-body simulation using C++ and SYCL oneAPI for paral
 
 ## 🎥 Demo
 
-
-https://github.com/user-attachments/assets/862afd89-cb10-4e6a-9297-cb816f2e3949
-
+https://github.com/user-attachments/assets/2094d1d4-fd93-429c-a4fc-0963e3eff2d8
 
 ## 🚀 Features
 
